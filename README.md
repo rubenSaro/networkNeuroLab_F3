@@ -14,3 +14,7 @@ Váša, F., & Mišić, B. (2022). Null models in network neuroscience. Nature Re
 Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature neuroscience, 20(3), 353-364. https://doi.org/10.1038/nn.4502
 
 Medaglia, J. D., Lynall, M. E., & Bassett, D. S. (2015). Cognitive network neuroscience. Journal of cognitive neuroscience, 27(8), 1471-1491. https://doi.org/10.1162/jocn_a_00810
+
+Rubinov, M. (2023). Circular and unified analysis in network neuroscience. Elife, 12, e79559. https://doi.org/10.7554/eLife.79559
+
+
