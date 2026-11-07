@@ -19,8 +19,6 @@ Rubinov, M. (2023). Circular and unified analysis in network neuroscience. Elife
 
 Betzel, R., Seguin, C., & Puxeddu, M. G. (2025). Rethinking scale in network neuroscience: Contributions and opportunities at the nanoscale. arXiv preprint arXiv:2508.16760. https://arxiv.org/abs/2508.16760
 
-
-
-
+Fekonja, L. S., Forkel, S. J., ... & Picht, T. (2025). Translational network neuroscience: Nine roadblocks and possible solutions. Network Neuroscience, 9(1), 352-370.https://doi.org/10.1162/netn_a_00435
 
 
