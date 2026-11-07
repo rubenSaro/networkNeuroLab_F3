@@ -1,5 +1,5 @@
 # NetworkNeuroscienceLab
-Repository for the Foundations 3 lab on network neuroscience: connectivity and graph theory (CMBN Rutgers Newark)
+Repository for the Foundations 3 class lab on network neuroscience: connectivity and graph theory (CMBN Rutgers Newark)
 
 A growing list of papers of interest:
 
