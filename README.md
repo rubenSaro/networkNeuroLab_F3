@@ -21,4 +21,4 @@ Betzel, R., Seguin, C., & Puxeddu, M. G. (2025). Rethinking scale in network neu
 
 Fekonja, L. S., Forkel, S. J., ... & Picht, T. (2025). Translational network neuroscience: Nine roadblocks and possible solutions. Network Neuroscience, 9(1), 352-370.https://doi.org/10.1162/netn_a_00435
 
-
+Kulkarni, S., & Bassett, D. S. (2025). Toward principles of brain network organization and function. Annual review of biophysics, 54(1), 353-378. https://doi.org/10.1146/annurev-biophys-030722-110624
